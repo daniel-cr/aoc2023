@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import utils
 
 filename = "day3.txt"
